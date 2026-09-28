@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local Voice Agent — Week 1: Microphone Recorder & Playback Tester
 
 This is the first week of my 4-week project to build a **voice assistant that runs fully on my own computer**. No cloud, no API keys. You talk, it listens, it thinks with a local AI model, and it talks back.
@@ -399,3 +400,6 @@ These helped me understand the concepts better:
 Next week I'll add **speech recognition**. I'll use the audio recorded by this project and turn it into text using **Whisper**, running locally. The mini project will be a **voice-to-text note taker**: speak, and your words get saved as text notes.
 
 Because I already record in the exact format Whisper wants (16 kHz, mono, 16-bit), the `audio/` package from this week can plug straight in.
+=======
+# Voice_Agent
+>>>>>>> c71562892fab7cad0bd7b7601849e4d24b25aba0
