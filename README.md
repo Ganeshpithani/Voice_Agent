@@ -361,28 +361,17 @@ Open `config.py`:
 | `TOO_QUIET_DBFS` | `-40.0` | Below this level, you get a "too quiet" warning |
 
 ---
-## Testing Results
+## Test Output Screenshots
 
-### Result 1
-./Microphone%20Recorder%20%26%20Playback%20Tester_results/result1.png
-
-### Result 2
-![Result 2](./Microphone%20Recorder%20%26%0Tester_results/result2.png
-
-### Result 3
-![Result 3](./Microphone%20Recorder%20%k%20Tester_results/result3.png
-
-### Result 4
-![Result 4](./Microphone%20Recorder%20ck%20Tester_results/result4.png
-
-### Result 4.2
-![Result 4.2](./Microphone%20Recorder%20%26Tester_results/result4.2.png
-
-### Result 5
-![Result one%20Recorder%20%26%20Playback%20Tester_results/result5.png
-
-### Result 6
-![Result 6](./Microphone%20Recorder%20ck%20Tester_results/result6.png
+| Result | Screenshot |
+|----------|----------|
+| Result 1 | ![Result 1](./0Recorder%20%26%20Playback%20Tester_results/result1.png |
+| Result 2 | ![Result 2](./Microphone%20Recorder%20%26%20Playback%20Tester_results |
+| Result 3 | ./Microphone%20Recorder%20%26%20Playback%20Tester_results/result3.png |
+| Result 4 | ![Resulthone%20Recorder%20%26%20Playback%20Tester_results/result4.png |
+| Result 4.2 | ![Result 4.2](./Microphone%20Recorder%20%26%ester_results/result4.2.png |
+| Result 5 | ![Result 5](./Microphone%20Recorderyback%20Tester_results/result5.png |
+| Result 6 | ![Result 6](./Microphone%20Recorder%20%26%0Tester_results/result6.png |
 
 
 ## Problems I Hit and How to Fix Them
