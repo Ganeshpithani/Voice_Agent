@@ -362,6 +362,8 @@ Open `config.py`:
 
 ---
 
+
+
 ## Problems I Hit and How to Fix Them
 
 **"PortAudio library not found"**
@@ -400,8 +402,4 @@ These helped me understand the concepts better:
 Next week I'll add **speech recognition**. I'll use the audio recorded by this project and turn it into text using **Whisper**, running locally. The mini project will be a **voice-to-text note taker**: speak, and your words get saved as text notes.
 
 Because I already record in the exact format Whisper wants (16 kHz, mono, 16-bit), the `audio/` package from this week can plug straight in.
-<<<<<<< HEAD
-
-=======
->>>>>>> 6d22474a83e35dd4800ecc964549ceab39149736
 
