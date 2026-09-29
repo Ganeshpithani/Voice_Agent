@@ -361,11 +361,11 @@ Open `config.py`:
 | `TOO_QUIET_DBFS` | `-40.0` | Below this level, you get a "too quiet" warning |
 
 ---
-## 🧪 Test Results
+##  Test Results
 
 The following screenshots demonstrate the microphone recording and playback tests.
 
-👉 [View Microphone Recorder & Playback Tester Results](./Microphone%20Recorder%20%26%20Playback%20Tester_results/)
+ [View Microphone Recorder & Playback Tester Results](./Microphone%20Recorder%20%26%20Playback%20Tester_results/)
 
 ## Problems I Hit and How to Fix Them
 
